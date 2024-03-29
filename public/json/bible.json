@@ -1,5 +1,5 @@
 {
-  "Old Testament":{
+  "king-james":{
       "Genesis":{
           "Chapter 1":[
               "In the beginning God created the heaven and the earth.",
@@ -207,7 +207,5 @@
               ""
           ]
       }
-  },
-
-  "New Testament":""
+  }
 }
